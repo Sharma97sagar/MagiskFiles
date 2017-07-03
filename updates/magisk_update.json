@@ -1,18 +1,18 @@
 {
   "app": {
-    "version": "5.0.2 (170702)",
-    "versionCode": "170702",
-    "link": "https://raw.githubusercontent.com/kantjer/MagiskFiles/master/MagiskManager-v5.0.2-170702.apk"
+    "version": "5.0.3 (170703)",
+    "versionCode": "170703",
+    "link": "https://raw.githubusercontent.com/kantjer/MagiskFiles/master/MagiskManager-v5.0.3-170703.apk"
   },
   "magisk": {
-    "version": "13.0 (170702)",
-    "versionCode": "170702",
-    "link": "https://raw.githubusercontent.com/kantjer/MagiskFiles/master/Magisk-v13.0-170702.zip",
+    "version": "13.0 (170703)",
+    "versionCode": "170703",
+    "link": "https://raw.githubusercontent.com/kantjer/MagiskFiles/master/Magisk-v13.0-170703.zip",
     "changelog": "Check the link",
     "note": "https://forum.xda-developers.com/showthread.php?t=3521901"
   },
   "uninstall": {
-    "filename": "Magisk-v13.0-170702-Uninstaller.zip",
-    "link": "https://raw.githubusercontent.com/kantjer/MagiskFiles/master/Magisk-v13.0-170702-Uninstaller.zip"
+    "filename": "Magisk-v13.0-170703-Uninstaller.zip",
+    "link": "https://raw.githubusercontent.com/kantjer/MagiskFiles/master/Magisk-v13.0-170703-Uninstaller.zip"
   }
 }
