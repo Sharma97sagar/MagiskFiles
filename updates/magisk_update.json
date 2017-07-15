@@ -1,8 +1,8 @@
 {
   "app": {
-    "version": "5.0.5 (170715)",
+    "version": "5.0.6 (170715)",
     "versionCode": "170715",
-    "link": "https://raw.githubusercontent.com/kantjer/MagiskFiles/master/MagiskManager-v5.0.5-170715.apk"
+    "link": "https://raw.githubusercontent.com/kantjer/MagiskFiles/master/MagiskManager-v5.0.6-170715.apk"
   },
   "magisk": {
     "version": "13.2 (170715)",
