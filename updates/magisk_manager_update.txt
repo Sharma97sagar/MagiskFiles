@@ -1,3 +1,0 @@
-lastest_version=171005
-apk_file=MagiskManager-v5.3.5-171005.apk
-download_url=https://raw.githubusercontent.com/kantjer/MagiskFiles/master/$apk_file
