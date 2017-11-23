@@ -1,13 +1,13 @@
 {
   "app": {
-    "version": "5.4.1 (171121)",
-    "versionCode": "171121",
-    "link": "https://github.com/kantjer/MagiskFiles/raw/master/MagiskManager-v5.4.1-171121.apk"
+    "version": "5.4.2 (171123)",
+    "versionCode": "171123",
+    "link": "https://github.com/kantjer/MagiskFiles/raw/master/MagiskManager-v5.4.2-171123.apk"
   },
   "magisk": {
-    "version": "14.4 (171121)",
-    "versionCode": "171121",
-    "link": "https://github.com/kantjer/MagiskFiles/raw/master/Magisk-v14.4-171121.zip",
+    "version": "14.5 (171123)",
+    "versionCode": "171123",
+    "link": "https://github.com/kantjer/MagiskFiles/raw/master/Magisk-v14.5-171123.zip",
     "note": "https://forum.xda-developers.com/showthread.php?t=3521901"
   }
 }
