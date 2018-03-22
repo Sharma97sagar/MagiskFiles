@@ -6,7 +6,7 @@
   },
   "magisk": {
     "version": "15.3",
-
+    "versionCode": "180318",
     "link": "https://github.com/Sharma97sagar/MagiskFiles/raw/master/Magisk-v15.3.zip"
 
   }
